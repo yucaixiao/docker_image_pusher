@@ -3,3 +3,4 @@ kasmweb/nginx:1.25.3
 nastool/nas-tools:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
+hslr/sun-panel:latest
