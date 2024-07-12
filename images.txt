@@ -5,3 +5,4 @@ dreamacro/clash:latest
 haishanh/yacd:latest
 hslr/sun-panel:latest
 linuxserver/heimdall:latest
+lmk123/migpt-server:latest
